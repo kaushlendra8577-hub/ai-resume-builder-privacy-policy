@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy Policy for AI Resume Builder: ATS Check.">
+  <title>Privacy Policy | AI Resume Builder: ATS Check</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      color: #202938;
+      background: #f3f6fb;
+    }
+    header {
+      background: #1946a3;
+      color: white;
+      padding: 35px 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 850px;
+      margin: 25px auto;
+      padding: 28px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 3px 15px #0000000c;
+    }
+    h1 { margin-bottom: 8px; }
+    h2 {
+      margin-top: 30px;
+      font-size: 21px;
+      color: #1946a3;
+    }
+    a { color: #1946a3; overflow-wrap: anywhere; }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #5c6675;
+    }
+    @media (max-width: 600px) {
+      main { margin: 12px; padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Privacy Policy</h1>
+  <p>AI Resume Builder: ATS Check</p>
+  <p>Last updated: October 18, 2026</p>
+</header>
+
+<main>
+<p>This Privacy Policy explains how AI Resume Builder: ATS Check (“the App”) handles information when you use its resume creation, editing, AI assistance, ATS analysis, export, advertising, and purchase features.</p>
+
+<h2>1. Developer and Contact</h2>
+<p><strong>App:</strong> AI Resume Builder: ATS Check</p>
+<p><strong>Privacy contact:</strong> kaushlendra8577@gmail.com</p>
+<p>Contact us at this email for privacy questions or requests.</p>
+
+<h2>2. Information You Enter</h2>
+<p>Depending on the features you use, you may enter your name, contact details, education, work history, skills, certifications, achievements, projects, career goals, resume text, job descriptions, or cover-letter content. You may also provide information when contacting support.</p>
+<p>Please provide only the information needed for your intended use. Avoid entering passwords, payment credentials, government identification numbers, or other sensitive information unless a feature specifically requires it.</p>
+
+<h2>3. Resume Creation and ATS Analysis</h2>
+<p>The App may use information you provide to create and edit resumes, improve wording, review keywords, compare resume content with job descriptions, and provide ATS-oriented suggestions.</p>
+<p>ATS scores and recommendations are estimates. They may be incomplete or inaccurate and do not guarantee an interview, job offer, or acceptance by an employer or applicant tracking system.</p>
+
+<h2>4. On-Device AI Processing</h2>
+<p>The App may offer AI features powered by a compatible model installed on your device. When a feature runs entirely on-device, the content processed by that local model is processed on your device rather than sent to a developer-operated AI server.</p>
+<p>Local AI availability and performance may depend on your device, available memory, storage, Android version, and model compatibility.</p>
+<p>Not every App feature is necessarily offline. Advertising, purchases, model downloads, updates, and other integrated services may require internet access. If a feature sends your content to a remote AI provider, this policy must be updated to identify that provider and explain the processing before the feature is released.</p>
+
+<h2>5. AI Model Download</h2>
+<p>The App may offer an optional downloadable AI model. Downloading it requires an internet connection and may use mobile data and device storage. The App may show an approximate file size, Wi-Fi or mobile-data options, download progress, cancellation, or retry controls, depending on the implemented version.</p>
+<p>The hosting service may receive technical information associated with the download, such as your IP address and request metadata, according to its own practices. Once downloaded and installed, supported on-device AI features may work offline, subject to their requirements.</p>
+
+<h2>6. Documents, Imports, and Exports</h2>
+<p>The App may let you create, edit, import, preview, and export resumes in supported formats, including PDF and Word. Files may be stored on your device or at a location you choose, depending on the feature and Android system behavior.</p>
+<p>Files exported to Downloads, Documents, cloud storage, or another app may remain there after you delete an in-app draft or uninstall the App. You control how you share exported documents.</p>
+
+<h2>7. Local Storage and Deletion</h2>
+<p>Depending on the features used, the App may store resume drafts, generated text, preferences, settings, AI model files, or credit-related information locally. The exact data stored depends on the released implementation.</p>
+<p>You may be able to delete information within the App. Clearing app storage or uninstalling the App may remove locally stored app data. Exported files and data held by third-party services may need to be deleted separately.</p>
+
+<h2>8. Advertising and Google AdMob</h2>
+<p>The App may display banner, interstitial, and rewarded advertisements through Google AdMob. Depending on the SDK configuration, region, consent status, and device settings, Google and its partners may process information such as IP address, advertising ID or other device identifiers, ad views and clicks, app interactions, diagnostics, and fraud-prevention signals.</p>
+<p>Advertising may be personalized or non-personalized according to applicable law, your settings, and the consent choices available to you. Where required, appropriate disclosures and consent options must be provided.</p>
+<p>Read <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a> and <a href="https://support.google.com/admob/">AdMob Help</a>.</p>
+
+<h2>9. Rewarded Ads and AI Credits</h2>
+<p>If the App provides AI credits, a qualifying completed rewarded advertisement may grant credits and eligible AI actions may consume them. The number of credits, eligible actions, and limits depend on the version of the App.</p>
+<p>Reward granting depends on the correct rewarded-ad implementation and any required verification. Merely tapping or opening an ad should not be treated as proof that a reward was earned.</p>
+
+<h2>10. Pro Features and Purchases</h2>
+<p>If the App offers Pro access or other in-app purchases, Google Play Billing may process purchase and transaction information to complete payments, prevent fraud, and support purchase restoration. The App may receive information needed to validate a purchase and provide access to the purchased features.</p>
+<p>Payment credentials are handled by Google Play and its payment partners, not directly collected by the App unless explicitly stated otherwise. Purchase availability and pricing are shown through the applicable purchase interface.</p>
+<p>Read <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a>.</p>
+
+<h2>11. Technical Information and Third-Party Services</h2>
+<p>The App or its third-party SDKs may process technical information needed to provide services, such as device and operating-system details, app version, network status, diagnostics, identifiers, and service-event information.</p>
+<p>The App may rely on third-party components for advertising, Google Play Billing, AI model hosting or downloads, and other technical functions. Those providers process information under their own terms and privacy policies. The actual providers and SDKs in the released build must be reflected in the App’s disclosures.</p>
+
+<h2>12. How Information May Be Used</h2>
+<ul>
+  <li>To create, edit, analyze, and export resumes.</li>
+  <li>To provide supported AI features and manage the optional AI model.</li>
+  <li>To display advertisements and process eligible rewarded credits.</li>
+  <li>To process purchases and restore eligible Pro access.</li>
+  <li>To maintain functionality, compatibility, reliability, and security.</li>
+  <li>To respond to support requests and meet legal obligations.</li>
+</ul>
+
+<h2>13. Sharing and Disclosure</h2>
+<p>We do not sell resume content as a standalone product. Information may be processed by service providers when needed to deliver features you use, such as advertising, purchases, or model downloads. Information may also be disclosed where required by law or when necessary to address fraud, security issues, or protect rights and safety.</p>
+<p>If the actual App sends resume text or other content to a remote server or AI provider, that processing must be clearly disclosed before release.</p>
+
+<h2>14. Retention and Security</h2>
+<p>Locally stored information generally remains on your device until deleted, app storage is cleared, or the App is uninstalled. Exported files and shared copies may need separate deletion. Third-party providers may retain information under their own policies and legal obligations.</p>
+<p>Reasonable safeguards should be used to protect information. However, no device, software, storage method, or internet transmission can be guaranteed completely secure. Protect your device and take care when sharing resumes containing personal information.</p>
+
+<h2>15. Permissions</h2>
+<p>Depending on the released features, the App may use internet access, Android file-selection interfaces, or other system permissions for specific functions. Actual permissions depend on the implementation and Android version. You can review available permissions in your device settings.</p>
+
+<h2>16. Children’s Privacy</h2>
+<p>The App is intended for people using resume and career-document tools and is not specifically designed for children. The developer must follow applicable child-privacy laws and platform requirements. Contact us if you have a concern about information provided by a child.</p>
+
+<h2>17. International Users and Privacy Rights</h2>
+<p>The App may be used in different countries. Depending on your location, you may have rights to request access to, correction of, deletion of, or restrictions on the processing of personal information. Rights and exceptions vary by jurisdiction.</p>
+<p>Contact us for requests involving information the developer controls. Third-party providers may have their own procedures for privacy requests.</p>
+
+<h2>18. External Links</h2>
+<p>The App may link to external websites or services. When you open an external link, that service’s terms and privacy policy apply. We do not control third-party websites.</p>
+
+<h2>19. Changes to This Policy</h2>
+<p>This policy may be updated when App features, third-party services, or legal requirements change. The latest version will be published at this URL, and the “Last updated” date will be revised. Changes will be communicated where required by law.</p>
+
+<h2>20. Contact Us</h2>
+<p>For privacy questions or requests, email <a href="mailto:kaushlendra8577@gmail.com">kaushlendra8577@gmail.com</a>.</p>
+
+<p><strong>Important:</strong> This policy must accurately reflect the production App’s actual code, data storage, AI processing, permissions, model host, advertising SDKs, and billing implementation. It is not a guarantee of legal or Play Store compliance.</p>
+</main>
+
+<footer>
+  AI Resume Builder: ATS Check — Privacy Policy
+</footer>
+</body>
+</html>
